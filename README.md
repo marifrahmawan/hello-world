@@ -1,2 +1,5 @@
 # hello-world
-first step to learn git
+this is second step to learn git
+im learning to create a new branch for commit.
+
+wish me luck :)
